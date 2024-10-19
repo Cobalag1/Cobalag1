@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Paus gurun.com</title>
+</head>
+<body>
+<h1 align="center">
+<mark> HAPPYBIRTHDAY</h1>
+<p align="center"><b>Selamat ulangtahun yang ke 19 cantikk,,semoga sehat selalu lancar rezekinya taat ibadahnya manut orang tua bahagia serta selamat sepanjang masa :3</p>
+<img src="imagee/image1.jpg" alt="Foto Orang Spesial" width="400px" heigth="200px">
+
+</body>
+</html>
